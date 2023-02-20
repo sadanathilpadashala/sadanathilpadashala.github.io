@@ -8,7 +8,6 @@ order: 4
 
 > Nurture according to Nature "Every Child Is Important"
 
-
 <img src="https://ik.imagekit.io/sayxocvkst/sems/L1030284Sep_18_2020JPEG_Quality_6.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1676921125392">
 
 Sadanathil Padashala is an elementary school recognised by the Kerala govt located at Manamboor village at Alamcode, Attingal, Thiruvananthapuram. for the native kids-Age group 4 to 12.
