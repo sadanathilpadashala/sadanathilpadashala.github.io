@@ -1,6 +1,6 @@
 ---
-layout: Contact us
-icon: fas fa-phone-square
+layout: tags
+icon: fas fa-tag
 order: 2
 ---
 
