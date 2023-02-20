@@ -40,14 +40,14 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: 
   email: example@domain.com             # change to your email address
-  links:
+  links: Sadanathil Padashala
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    # - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    https://www.facebook.com/sadanathi
     # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
