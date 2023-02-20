@@ -5,10 +5,10 @@ order: 2
 
 <img src="https://ik.imagekit.io/sayxocvkst/sems/SADANATHIL_PADASHALA-web.png?ik-sdk-version=javascript-1.4.3&updatedAt=1676920349170">
 
-## Contact Us
+# Contact Us
 We're always happy to hear from you. If you have any questions, comments, or feedback, please don't hesitate to reach out to us.
 
-## Email
+### Email
 You can send us an email at sadanathil@gmail.com. We'll do our best to respond to your message within 24 hours.
 
 ### Social Media
@@ -16,8 +16,10 @@ You can also reach out to us on social media. We're active on the following plat
 
 Facebook: [https://www.facebook.com/sadanathi](https://www.facebook.com/sadanathi)
 
-### Mailing Address
+### Call us
+Mobile: (+91)999-588-0709
 
+### Mailing Address
 Manamboor, Attingal\
 Thiruvananthapuram, Kerala, India\
 PIN: 695102
