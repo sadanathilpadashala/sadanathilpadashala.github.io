@@ -3,10 +3,10 @@ icon: fas fa-phone-square
 order: 2
 ---
 
-<img src="https://ik.imagekit.io/sayxocvkst/sems/WhatsApp_Image_2023-02-10_at_10.18.32_PM.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1676916328561">
+<img src="https://ik.imagekit.io/sayxocvkst/sems/SADANATHIL_PADASHALA-web.png?ik-sdk-version=javascript-1.4.3&updatedAt=1676920349170">
 
 ## Contact Us
-We're always happy to hear from our readers! If you have any questions, comments, or feedback, please don't hesitate to reach out to us.
+We're always happy to hear from you. If you have any questions, comments, or feedback, please don't hesitate to reach out to us.
 
 ## Email
 You can send us an email at sadanathil@gmail.com. We'll do our best to respond to your message within 24 hours.
