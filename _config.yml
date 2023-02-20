@@ -78,7 +78,7 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:https://ik.imagekit.io/sayxocvkst
+img_cdn: https://ik.imagekit.io/sayxocvkst
 # the avatar on sidebar, support local or CORS resources
 avatar: /sems/WhatsApp_Image_2023-02-10_at_10.18.32_PM.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1676916328561
 
