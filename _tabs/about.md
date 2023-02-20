@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About us
-
 > Nurture according to Nature "Every Child Is Important"
 
 <img src="https://ik.imagekit.io/sayxocvkst/sems/L1030284Sep_18_2020JPEG_Quality_6.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1676921125392">

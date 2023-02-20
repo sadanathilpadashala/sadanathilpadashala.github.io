@@ -5,7 +5,7 @@ order: 2
 
 <img src="https://ik.imagekit.io/sayxocvkst/sems/SADANATHIL_PADASHALA-web.png?ik-sdk-version=javascript-1.4.3&updatedAt=1676920349170">
 
-# Contact Us
+
 We're always happy to hear from you. If you have any questions, comments, or feedback, please don't hesitate to reach out to us.
 
 ### Email
