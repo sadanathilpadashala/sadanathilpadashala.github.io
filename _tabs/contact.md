@@ -9,7 +9,7 @@ order: 2
 We're always happy to hear from you. If you have any questions, comments, or feedback, please don't hesitate to reach out to us.
 
 ### Email
-You can send us an email at sadanathil@gmail.com. We'll do our best to respond to your message within 24 hours.
+You can send us an email at [sadanathil@gmail.com](sadanathil@gmail.com). We'll do our best to respond to your message within 24 hours.
 
 ### Social Media
 You can also reach out to us on social media. We're active on the following platforms:
