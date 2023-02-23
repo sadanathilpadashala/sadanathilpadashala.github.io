@@ -21,8 +21,8 @@ WhatsApp: (+91)949-526-8989
 
 ### Mailing Address
 Sadanathil Padashala\
-Ramnagar, Alamcode, Attingal\ 
-Thiruvananthapuram, Kerala, India\ 
+Ramnagar, Alamcode, Attingal\
+Thiruvananthapuram, Kerala, India\
 PIN: 695102
 
 
