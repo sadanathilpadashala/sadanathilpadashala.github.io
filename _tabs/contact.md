@@ -25,4 +25,5 @@ Ramnagar, Alamcode, Attingal\
 Thiruvananthapuram, Kerala, India\
 PIN: 695102
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=sadanathil%20&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">map widget for website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1391.2872098775802!2d76.80299941790176!3d8.721336743476623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05e9c73dd528f9%3A0x8322a0b851a81331!2sSadanathil%20Padashala%20(SEMS)%20Center%20for%20elementary%20education%20%26%20research!5e0!3m2!1sen!2sca!4v1677112329480!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
