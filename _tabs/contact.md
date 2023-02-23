@@ -14,14 +14,15 @@ You can send us an email at [sadanathil@gmail.com](sadanathil@gmail.com). We'll 
 ### Social Media
 You can also reach out to us on social media. We're active on the following platforms:
 
-Facebook: [https://www.facebook.com/sadanathi](https://www.facebook.com/sadanathi)
+Facebook: [https://www.facebook.com/sadanathil](https://www.facebook.com/sadanathil)
 
 ### Call us
-Mobile: (+91)999-588-0709
+WhatsApp: (+91)949-526-8989
 
 ### Mailing Address
-Manamboor, Attingal\
-Thiruvananthapuram, Kerala, India\
+Sadanathil Padashala\
+Ramnagar, Alamcode, Attingal\ 
+Thiruvananthapuram, Kerala, India\ 
 PIN: 695102
 
 
